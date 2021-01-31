@@ -1,4 +1,4 @@
-title: Joong25.blog
+title: Joong의 블로그
 author: Joong25
 email: tbvjqlqlqlr@naver.com
 description: >
@@ -25,6 +25,7 @@ footer_icons:
   icon: icon-github.svg
 
 paginate: 2
+paginate_path: "/posts/page:num/"
 
 markdown: kramdown
 
