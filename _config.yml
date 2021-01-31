@@ -35,3 +35,4 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - minima-reboot.gemspec
+remote_theme: aterenin/minima-reboot
