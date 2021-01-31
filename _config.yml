@@ -27,7 +27,7 @@ footer_icons:
   url: https://joong25.github.io
   icon: icon-github.svg
 
-paginate: 5
+paginate: 2
 
 markdown: kramdown
 
